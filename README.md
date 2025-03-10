@@ -36,6 +36,7 @@ using `hugo version` should work.
 <p>
 <img src="https://imgur.com/VBZpH3e.png" height="80%" width="80%" alt="General Overview"/>
 </p>
+
 # Git Clone with Theme
 Choose a directory to clone(copy) the github repository use the following git commands if you are using a theme in Hugo.
 <p>
