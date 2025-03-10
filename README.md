@@ -2,7 +2,8 @@
 <p>
 <img src="https://imgur.com/Y1b8rqX.png" height="80%" width="80%" alt="General Overview"/>
 </p>
-- ### [YouTube: Hugo on AWS Amplify on Terminal as a Second Brain](https://youtu.be/o1DOPndIR1w)
+
+# [YouTube: Hugo on AWS Amplify on Terminal as a Second Brain](https://youtu.be/o1DOPndIR1w)
 
 
 # Install Homebrew - The Missing Package Manager for macOS (or Linux)
