@@ -1,5 +1,8 @@
 # Continuous Deployment from Amazon Web Services for Hugo (The world’s fastest framework for building websites)
 
+- ### [YouTube: Hugo on AWS Amplify on Terminal as a Second Brain](https://youtu.be/o1DOPndIR1w)
+
+
 # Install Homebrew - The Missing Package Manager for macOS (or Linux)
 
 https://brew.sh/
